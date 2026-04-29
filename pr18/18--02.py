@@ -1,0 +1,3 @@
+# 18--02.py
+with open("output.txt", "w") as f:
+    f.write("Hello, world!")
